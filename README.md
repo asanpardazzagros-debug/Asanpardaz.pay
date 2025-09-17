@@ -1,0 +1,1 @@
+# Asanpardaz.pay
