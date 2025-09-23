@@ -1,8 +1,23 @@
-GameWallet/
-├── game/              # فایل‌های بازی (Unity یا Godot)
-├── wallet/            # قراردادهای هوشمند و اتصال به بلاک‌چین
-├── frontend/          # رابط کاربری کیف پول
-├── docs/              # مستندات و تصاویر پروژه
-├── README.md          # معرفی کامل پروژه
-├── LICENSE            # مجوز متن‌باز
-└── CONTRIBUTING.md    # راهنمای مشارکت‌کنندگان
+README.md مشارکت‌کنندگان
+# 🎮💳 GameWallet
+
+GameWallet is a simple game integrated with a digital wallet. Players earn tokens by completing levels and store them securely.
+
+## 🚀 Features
+
+- Earn tokens as you play
+- Integrated blockchain wallet
+- Web-based dashboard for asset tracking
+
+## 🛠️ Tech Stack
+
+- Unity / Godot
+- Solidity + MetaMask
+- React / Flutter
+- GitHub for version control
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/GameWallet.git
+cd GameWallet
