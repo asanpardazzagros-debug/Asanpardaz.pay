@@ -1,4 +1,4 @@
-# 🎮💳 GameWallet
+README.md🎮💳 GameWallet
 
 GameWallet is a simple game integrated with a digital wallet. Players earn tokens by completing levels and store them securely.
 
