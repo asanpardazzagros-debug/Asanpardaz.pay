@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GameWallet</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="game">
+    <h2>Welcome to GameWallet!</h2>
+    <p>Game logic running...</p>
+  </div>
+  <div id="wallet">
+    <h1>GameWallet</h1>
+    <button onclick="fetchBalance()">Fetch Balance</button>
+    <p>Your balance: <span id="balance">0</span></p>
+  </div>
+  <script src="web3.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
